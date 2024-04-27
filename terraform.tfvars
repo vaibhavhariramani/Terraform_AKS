@@ -1,0 +1,5 @@
+rgname = "test-AKS-rg"
+location = "canadacentral"
+service_principal_name = "test-AKSDemo-spn"
+keyvault_name          = "test-Demo-kv-101"
+cluster-name           = "test-aks-demo-cluster"
