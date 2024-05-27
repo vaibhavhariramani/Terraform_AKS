@@ -80,7 +80,7 @@ if you use this repo in  your project don't forget to mention us as Contributer 
 # Made with ❤️by Vaibhav Hariramani
 #### About me
 
-I am a Machine Learning enthusiast, an Actions on Google, Internet of things, Alexa Skills, and Image processing developer.
+I am a MLOps enthusiast, Cloud Development Engineer, and Image processing developer.
 I have a keen interest in Image processing and Andriod development.
 I am Currently studying at  Chandigarh University, Punjab.
 
@@ -91,9 +91,7 @@ You can find me at:-
 Email: [vaibhav.hariramani01@gmail.com](mailto:vaibhav.hariramani01@gmail.com)
 
 
-# Download [THE VAIBHAV HARIRAMANI APP](https://play.google.com/store/apps/details?id=com.geeky.developer)
 
-# [<img src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/gh-bannner-light.png">](https://play.google.com/store/apps/details?id=com.geeky.developer) 
 <p align='center'>
 <a href="https://www.linkedin.com/in/vaibhav-hariramani-087488186/"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/linkedin.png"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/vaibhavhariram2"><img height="30" src="https://github.com/vaibhavhariaramani/vaibhavhariaramani/blob/master/icon/twitter.png"></a>&nbsp;&nbsp;
